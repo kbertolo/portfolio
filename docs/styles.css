@@ -1,0 +1,16 @@
+
+
+
+
+/* Forçar o tamanho proporcional para SVGs renderizados por pymdownx.emoji */
+svg.twemoji, img.md-icon, span.md-icon {
+    width: 1em !important;  /* Define o tamanho igual ao texto */
+    height: 1em !important; /* Define o tamanho igual ao texto */
+    vertical-align: middle; /* Alinha o emoji ao centro */
+}
+
+/* Ajuste global para emojis ou ícones em geral */
+.md-icon {
+    font-size: 1em !important; /* Ajusta o tamanho da fonte para emojis */
+    line-height: 1em !important; /* Ajusta a altura da linha para emojis */
+}
