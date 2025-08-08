@@ -1,7 +1,8 @@
 /venv/
 .venv/
+
 /site/
-site/
+
 **DS_Store/
 .DS_Store
 *.DS_Store
