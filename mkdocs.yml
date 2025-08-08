@@ -6,7 +6,7 @@ site_author: "Kauan Bertolo"
 docs_dir: "docs"
 
 theme:
-  name: cinder
+  name: material
 
 markdown_extensions:
   - attr_list
@@ -16,7 +16,7 @@ markdown_extensions:
 
 plugins:
   - git-revision-date-localized
-  - git-authors
+  # - git-authors
 
 extra_css:
   - https://cdn.materialdesignicons.com/5.4.55/css/materialdesignicons.min.css
