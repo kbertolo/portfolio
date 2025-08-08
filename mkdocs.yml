@@ -1,6 +1,6 @@
 site_name: "Portfolio"
 site_url: "https://kbertolo.github.io/"
-site_description: "Kauan's Documentation"
+site_description: "Portfolio do Kauan Bertolo"
 site_author: "Kauan Bertolo"
 
 docs_dir: "docs"
@@ -16,7 +16,6 @@ markdown_extensions:
 
 plugins:
   - git-revision-date-localized
-  # - git-authors
 
 extra_css:
   - https://cdn.materialdesignicons.com/5.4.55/css/materialdesignicons.min.css

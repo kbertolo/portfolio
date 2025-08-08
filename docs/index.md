@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="./../../images/foto_de_perfil.jpeg" alt="Kauan Moreira Bertolo" style="width:250px; border-radius:50%;">
+  <img src="./images/foto_de_perfil.jpeg" alt="Kauan Moreira Bertolo" style="width:250px; border-radius:50%;">
 </div>
 
 <div style="text-align: center; gap: 10px; align-items: center;">
