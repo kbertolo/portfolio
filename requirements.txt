@@ -9,7 +9,6 @@ mkdocs-exclude
 mkdocs-glightbox
 mkdocs-minify-plugin
 pymdown-extensions
-git-author
 PyYAML
 python-dateutil
 pytz
