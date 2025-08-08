@@ -1,4 +1,4 @@
-## As tecnologias que domino são: {align=center}
+## As ferramentas que domino são: {align=center}
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div style="flex: 1; min-width: 200px; text-align: center;">
