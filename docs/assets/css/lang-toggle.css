@@ -23,11 +23,22 @@
 }
 
 /* Simple utility: show only the selected language when classes are present */
-html.lang-en .lang-pt {
+html.lang-en .lang-pt,
+html.lang-en div.lang-pt,
+html.lang-en p.lang-pt {
   display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  overflow: hidden !important;
 }
-html.lang-pt .lang-en {
+
+html.lang-pt .lang-en,
+html.lang-pt div.lang-en,
+html.lang-pt p.lang-en {
   display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  overflow: hidden !important;
 }
 
 /* Ensure toggled content is visible by default */
