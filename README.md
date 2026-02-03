@@ -1,2 +1,2 @@
-# Acesse meu portfólio por esse link:
+# You can se here:
 ### [Portfolio](https://kbertolo.github.io/portfolio/)

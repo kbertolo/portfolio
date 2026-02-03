@@ -21,6 +21,10 @@ extra_css:
   - https://cdn.materialdesignicons.com/5.4.55/css/materialdesignicons.min.css
   - https://cdnjs.cloudflare.com/ajax/libs/simple-icons/5.15.0/simple-icons.min.css
   - https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
+  - assets/css/lang-toggle.css
+
+extra_javascript:
+  - assets/js/lang-toggle.js
 
 nav:
   - Seja Bem Vindo: "index.md"
