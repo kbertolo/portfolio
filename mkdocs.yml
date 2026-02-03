@@ -10,6 +10,10 @@ theme:
 
 markdown_extensions:
   - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -27,6 +31,6 @@ extra_javascript:
   - assets/js/lang-toggle.js
 
 nav:
-  - Seja Bem Vindo: "index.md"
-  - Minhas Skills: "skills/skills.md"
-  - Sobre: "about.md"
+  - Home: "index.md"
+  - Skills: "skills/skills.md"
+  - About: "about.md"

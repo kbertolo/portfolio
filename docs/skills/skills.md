@@ -1,6 +1,7 @@
 <div class="lang-pt">
-## As ferramentas que domino são: {align=center}
-<br>
+
+<h1> As ferramentas que domino são: </h1>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div style="flex: 1; min-width: 200px; text-align: center;">
         <p>Front-end</p>
@@ -13,7 +14,7 @@
         <i class="devicon-python-plain colored" style="font-size: 50px;"></i>
     </div>
     <div style="flex: 1; min-width: 200px; text-align: center;">
-        <p>Databases</p>
+        <p>Banco de Dados</p>
         <i class="devicon-mysql-plain colored" style="font-size: 50px;"></i>
         <i class="devicon-mongodb-plain colored" style="font-size: 50px;"></i>
     </div>
@@ -28,7 +29,7 @@
         <i class="devicon-django-plain colored" style="font-size: 50px;"></i>
     </div>
     <div style="flex: 1; min-width: 200px; text-align: center;">
-        <p>Tools</p>
+        <p>Ferramentas</p>
         <i class="devicon-linux-plain colored" style="font-size: 50px;"></i>
         <i class="devicon-docker-plain colored" style="font-size: 50px;"></i>
     </div>
@@ -36,8 +37,9 @@
 </div>
 
 <div class="lang-en">
-## As ferramentas que domino são: {align=center}
-<br>
+
+<h1> The tools I master are: </h1>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div style="flex: 1; min-width: 200px; text-align: center;">
         <p>Front-end</p>
