@@ -1,0 +1,37 @@
+/* Styles for the language toggle button and simple language hiding rules */
+#lang-toggle-btn,
+#lang-toggle-btn * {
+  box-sizing: border-box;
+}
+#lang-toggle-btn {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  z-index: 9999;
+  background: #0b69ff;
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(11, 105, 255, 0.16);
+}
+
+/* Simple utility: show only the selected language when classes are present */
+html.lang-en .lang-pt {
+  display: none !important;
+}
+html.lang-pt .lang-en {
+  display: none !important;
+}
+
+/* Ensure toggled content is visible by default */
+.lang-en,
+.lang-pt {
+  display: block;
+}
